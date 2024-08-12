@@ -6,6 +6,6 @@
     "*.shab": "handlebars",
     "*.tmp": "handlebars"
   },
-      "vtools.autoHideSideBar": true
+   "vtools.autoHideSideBar": true
 }
  
