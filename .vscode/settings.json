@@ -1,0 +1,11 @@
+{
+  "[handlebars]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.shab": "handlebars",
+    "*.tmp": "handlebars"
+  },
+      "vtools.autoHideSideBar": true
+}
+ 

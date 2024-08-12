@@ -1,0 +1,52 @@
+{
+  "des": "Эталонный файл, для проектирования файла настроект",
+  "dev": 0.1,
+  "sta": "LLaQfXO6T82QlqMYb-BRZ0",
+  "tip": "xml",
+  "pti": "yml",
+  "cha": "2024-07-10 21:44:10+03",
+  "tag": {
+    "LLaQfXO6T82QlqMYb-BRZ0": {
+      "typ": "yml_catalog",
+      "atr": {
+        "date": "date"
+      },
+      "sty": {},
+      "dat": {
+        "name": "test"
+      },
+      "par": null,
+      "chi": ["mZwNdvE-QfqYjhCv9VYEhw"],
+      "cha": "2024-07-10 21:44:10+03"
+    },
+    "mZwNdvE-QfqYjhCv9VYEhw": {
+      "typ": "shop",
+      "atr": {},
+      "sty": {},
+      "dat": {},
+      "par": "LLaQfXO6T82QlqMYb-BRZ0",
+      "cha": "2024-07-10 21:44:10+03",
+      "chi": [
+        "sU-NcpQBSbquqQZexiV-IA",
+        "qdXN9LgsSgq7n434nD0gSQ",
+        "j0sEk9ToRiK0ukflWpTezg"
+      ]
+    },
+    "sU-NcpQBSbquqQZexiV-IA": {
+      "typ": "text",
+      "atr": {},
+      "sty": {},
+      "dat": {},
+      "par": "mZwNdvE-QfqYjhCv9VYEhw",
+      "cha": "2024-07-10 21:44:10+03"
+    },
+    "qdXN9LgsSgq7n434nD0gSQ": {
+      "typ": "company",
+      "atr": {},
+      "sty": {},
+      "dat": {},
+      "par": "mZwNdvE-QfqYjhCv9VYEhw",
+      "cha": "2024-07-10 21:44:10+03"
+    }
+  }
+}
